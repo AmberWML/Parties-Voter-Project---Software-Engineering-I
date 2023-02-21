@@ -1,0 +1,33 @@
+~~~~ Audit File ~~~~
+Input File: ../testing/OPLtest1.csv
+Open Party List Election
+Seats Availible: 3
+Ballots Cast: 9
+
+Vote for Pike (D)
+Vote for Pike (D)
+Vote for Foster (D)
+Vote for Jones (R)
+Vote for Smith (I)
+Vote for Borg (R)
+Vote for Borg (R)
+Vote for Pike (D)
+Vote for Foster (D)
+Tie detected between Borg and Jones!
+Tie broken, Winner: Jones
+
+Party Results:
+ - D:5 votes, 2 seats
+ - R:3 votes, 1 seats
+ - I:1 votes, null seats
+
+Candidate Results:
+ - Pike(D): 3 votes, appointed to seat
+ - Foster(D): 2 votes, appointed to seat
+ - Jones(R): 1 votes, appointed to seat
+ - Borg(R): 2 votes
+ - Deutsch(R): 0 votes
+ - Smith(I): 1 votes
+
+Tie detected between Jones and Borg!
+Tie broken, Winner: Jones

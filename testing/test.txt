@@ -1,0 +1,44 @@
+~~~~ Audit File ~~~~
+Input File: CPL.txt
+Closed Party List Election
+Seats Available: 7
+Ballots Cast: 13
+
+Vote for D
+Vote for D
+Vote for R
+Vote for R
+Vote for G
+Vote for I
+Vote for G
+Vote for D
+Vote for R
+Vote for G
+Vote for G
+Vote for R
+Vote for R
+
+Party Results:
+ - R:5 votes, 3 seats
+ - G:4 votes, 2 seats
+ - D:3 votes, 2 seats
+ - I:1 votes, null seats
+
+Candidate Results:
+ - Deutsch(R): Ranked 1, appointed to seat
+ - Wong(R): Ranked 2, appointed to seat
+ - Walters(R): Ranked 3, appointed to seat
+ - Keller(R): Ranked 4
+ - Borg(R): Ranked 5
+ - Jones(G): Ranked 1, appointed to seat
+ - Smith(G): Ranked 2, appointed to seat
+ - Lewis(G): Ranked 3
+ - Smith(G): Ranked 4
+ - Li(G): Ranked 5
+ - Pike(D): Ranked 1, appointed to seat
+ - Foster(D): Ranked 2, appointed to seat
+ - Floyd(D): Ranked 3
+ - Jones(D): Ranked 4
+ - Mallory(D): Ranked 5
+ - Perez(I): Ranked 1
+

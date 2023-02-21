@@ -1,0 +1,52 @@
+~~~~ Audit File ~~~~
+Input File: ../testing/OPLctie3.csv
+Open Party List Election
+Seats Availible: 3
+Ballots Cast: 6
+
+Vote for Foster (I)
+Vote for Borg (I)
+Vote for Smith (I)
+Vote for Foster (I)
+Vote for Borg (I)
+Vote for Smith (I)
+Tie detected between Foster and Deutsch!
+Tie broken, Winner: Deutsch
+Tie detected between Foster and Borg!
+Tie broken, Winner: Borg
+Tie detected between Foster and Jones!
+Tie broken, Winner: Jones
+Tie detected between Foster and Smith!
+Tie broken, Winner: Foster
+
+Party Results:
+ - I:6 votes, 3 seats
+
+Candidate Results:
+ - Deutsch(I): 0 votes, appointed to seat
+ - Borg(I): 2 votes, appointed to seat
+ - Jones(I): 0 votes, appointed to seat
+ - Foster(I): 2 votes
+ - Smith(I): 2 votes
+ - Pike(I): 0 votes
+
+Tie detected between Borg and Jones!
+Tie broken, Winner: Jones
+Tie detected between Borg and Foster!
+Tie broken, Winner: Borg
+Tie detected between Foster and Smith!
+Tie broken, Winner: Smith
+Tie detected between Foster and Pike!
+Tie broken, Winner: Pike
+Tie detected between Borg and Smith!
+Tie broken, Winner: Borg
+Tie detected between Smith and Pike!
+Tie broken, Winner: Smith
+Tie detected between Borg and Foster!
+Tie broken, Winner: Borg
+Tie detected between Smith and Jones!
+Tie broken, Winner: Smith
+Tie detected between Foster and Pike!
+Tie broken, Winner: Pike
+Tie detected between Foster and Deutsch!
+Tie broken, Winner: Deutsch
